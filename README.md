@@ -9,13 +9,18 @@ Building Sustainable Housing For Low For Profit Charity
 
 + Security
   Example: Security For Issuance Security Position.
-  
+    + A )) Standard Security For Worksite
+    + B )) Security for Offsite services
+  --auto( HTTP.server )
 + Protocol
   Example: Protocol for issued security line.
-  
+  + X: XSSL -- Custom SSL
+  + TT: FTTPS -- 
+  + PS: POSTFIX SCRIPT
 + Tokenize
   Example: Badge for property AIO.
-  
+   INPUT: STREAM ONE
+  OUTPUT: STREAM TWO
 + No Spam
   Example: no mean people.
   
@@ -30,16 +35,21 @@ Building Sustainable Housing For Low For Profit Charity
   
 ## Road Map
 
-Discussing Road Map Features
+Discussing Road Map Features plans for additional features yet to be announced.
 
 ## Support
 
 Support For Foundation Workspace
+  Badge Information Details
 
 ## Credits
 
 Made by The Foundation "Viewport Estates"
 
-version 1.0
-serial 1
-STUB
+build   1.0;
+version 1.0;
+serial    1;
+END;
+
+
+ETA ~ /Beyond-The-Viewport
