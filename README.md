@@ -14,6 +14,8 @@ go bags full of goodies at drop select locations.
 use configuration command settings
 
   creative workspace
+  on the job training
+  development classes
 
 COMMAND( settings: configuration: user-account )
 my user-account: Cody Bunnell ( Apex Express )
@@ -48,8 +50,13 @@ PS: command --auto( HTTP.server )
   
 + Pure Tooling
 
-    Example: Straight To The Point.
+    Example:
 
+  Straight To The Point.
+  No middle mad.
+
+  A > B
+  
    + Safe Thread Count
    + Socket Service
    + Support System
