@@ -17,9 +17,6 @@ use configuration command settings
   on the job training
   development classes
 
-COMMAND( settings: configuration: user-account )
-my user-account: Cody Bunnell ( Apex Express )
-
 import view.pad()
   
   Example: command console station
