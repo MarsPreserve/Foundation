@@ -28,6 +28,10 @@ import view.pad()
   
 ## Features
 
+It significantly furthers the accomplishment of one or more charitable or educational purposes within the meaning of Sec. 170(c)(2)(b) of the Internal Revenue Code and would not have been formed but for the company's relationship to the accomplishment of those charitable or educational purposes.
+It does not have as a significant purpose the production of income or the appreciation of property.
+It does not have as a purpose the accomplishment of one or more political or legislative purposes.
+
 + Security Space Time Command  (( STC ))
   Example: Security For Issuance Security Position.
     + A )) Standard Security For Worksite
