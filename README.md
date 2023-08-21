@@ -3,26 +3,48 @@
 Thanks for showing up and reading this short introduction.
 
 Software Foundation Inside Real Estate Investment Foundation
-Building Sustainable Housing For Low For Profit Charity
+Building Sustainable Housing For Level 3 100k Commons Company.
 
+Donations Go Into Framework Startup and future growth.
+Roadmaps are issued and vaction deals are to be had.
+
+While roadmaps provided something to do there are also
+go bags full of goodies at drop select locations.
+
+use configuration command settings
+
+  creative workspace
+
+COMMAND( settings: configuration: user-account )
+my user-account: Cody Bunnell ( Apex Express )
+
+import view.pad()
+  
+  Example: command console station
+  for while-do: command service system
+  for command-while: TRUE issuance
+  
 ## Features
 
-+ Security
++ Security Space Time Command  (( STC ))
   Example: Security For Issuance Security Position.
     + A )) Standard Security For Worksite
     + B )) Security for Offsite services
-  --auto( HTTP.server )
+
+PS: command --auto( HTTP.server )
+
 + Protocol
   Example: Protocol for issued security line.
-  + X: XSSL -- Custom SSL
-  + TT: FTTPS -- 
+  + X: XSSL -- Custom Xteam: XSSL
+  + TT: FTTPS -- File Transfer Timecode Protocol System
   + PS: POSTFIX SCRIPT
 + Tokenize
   Example: Badge for property AIO.
    INPUT: STREAM ONE
   OUTPUT: STREAM TWO
 + No Spam
-  Example: no mean people.
+  Example: No Mean People.
+  Sample: Safe Working Enviornment
   
 + Pure Tooling
 
@@ -42,14 +64,16 @@ Discussing Road Map Features plans for additional features yet to be announced.
 Support For Foundation Workspace
   Badge Information Details
 
+  This process involves providing training and support to employees to improve performance and increase overall company productivity. Implementing this process can help an organization become a more attractive employer and differentiate itself from the competition.
+
 ## Credits
 
 Made by The Foundation "Viewport Estates"
 
-build   1.0;
-version 1.0;
-serial    1;
-END;
+build   1.0; # 1 build
+version 1.0; # 2 version
+serial    1; # 3 serial
 
+Creative Commons 2023
 
 ETA ~ /Beyond-The-Viewport
