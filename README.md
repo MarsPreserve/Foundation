@@ -7,6 +7,7 @@ Software Foundation -- To Develope Web Application Network
 
 Networking with functions primarary division for updates
 
+```
 <MAGIC> 
 
 ~ stream id/confirm/desktop
@@ -151,6 +152,7 @@ configuration
 <EXPORT>
 
   **EXPORT**
+```
 
 ## Introduction
 
