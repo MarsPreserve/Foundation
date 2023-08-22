@@ -27,7 +27,7 @@ around the United States.
 
 Working with various tools
 
-## Safety-Chain
+## Safe-Chain
 
 Safe: Treads!
 Thread: configuration/source
