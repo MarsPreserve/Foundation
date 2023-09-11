@@ -30,6 +30,9 @@ Periodically assess your project's progress and impact. Reflect on what's workin
 ## Sustainability:
 Consider how your project can have a lasting impact beyond its initial implementation. Develop strategies to ensure its longevity and continued positive influence.
 
+## Networking
+the action or process of interacting with others to exchange information and develop professional or social contacts.
+
 ## Continuous Learning: 
 Stay open to learning from your experiences and the feedback of others. Use this knowledge to refine your approach and enhance future initiatives.
 
