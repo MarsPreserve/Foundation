@@ -1,4 +1,7 @@
-Building a Metaphorical Foundation:
+# Mars Preserve - Limited License Corporation
+
+Title: Building a Metaphorical Foundation
+qouted from google search engine ( content generated herein )
 
 ## Define Your Vision and Purpose: 
 Clearly articulate the goals, mission, and values of your project or initiative. Understand why you're undertaking this endeavor and what impact you want to make.
