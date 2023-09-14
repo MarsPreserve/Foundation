@@ -10,7 +10,7 @@ Assemble a team of individuals who share your vision and possess the skills need
 ## Research and Planning: 
 Gather information about your project's context, potential challenges, and target audience. Develop a strategic plan outlining the steps you'll take to achieve your goals.
 
-1. Move by gaining forwards momentum
+1. Move by gaining forwards momentum goals
 
 ## Engage Stakeholders: 
 Connect with stakeholders, including potential supporters, partners, and community members. Cultivate relationships that will contribute to the success of your initiative.
