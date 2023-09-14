@@ -77,7 +77,7 @@ user.system import from */system.libs/src
 from: libs/source-code-data-ApexExpress
 ```
 ```
-visit: pr: an open company org old fracation on the hill
+An company and community open like a preserve 
 ```
 ```
 import export system from src/libs/* via( command from: libs/src )
@@ -116,10 +116,12 @@ Token generation initial cost to be established;
 Token generation has to be voted in;
 Token ICO initial coin offering exsists to fund a company;
 
-Tokens where important beacuse thats the cash flow per given asset;
-revenue generated from token sales and transaction on supply chain 
+Tokens were important beacuse thats the cash flow per given asset;
+revenue generated from token sales and transaction on supply DATA :: chain;
 
+```
 ( blockchain R32 token ) ( <Reserved> ICO Starter Project )
+```
 
 Each blockchain script connects to form data containerization;
 
@@ -143,7 +145,7 @@ Consider how your project can have a lasting impact beyond its initial implement
 ## Networking
 The action or process of interacting with others to exchange information and develop professional or social contacts. 
 
-Networking for thousands of years ... .. 
+Networking for thousands of years ... ..
 ( pow poc blockchain innovations artwork music culuture community homespaces responsible Express estates) 
 
 ## Continuous Learning: 
