@@ -1,30 +1,58 @@
-## Welcome
 
-The Mars Preserve L3C is a micro company/farm cooperation of decentrialized farmers future driven for results/orginization charter to take action a foundation servicing/supporting the person. Additionally
-Mars Preserve is a technology startup company group orginization being build behind the scenes. 
+---
 
-## Get Growing 
+**Mars Preserve L3C Code of Conduct**
 
-using hydrotechniques.
-Vertically Grow and Scale.
+At Mars Preserve L3C, we are dedicated to fostering a culture of respect, collaboration, and sustainability. Our code of conduct outlines the principles and behaviors we expect from all members, including employees, farmers, partners, and stakeholders.
 
-## Version Control 
+**1. Respect for All:**
+   - Treat all individuals with dignity and respect, regardless of their background, beliefs, or role within the organization.
+   - Foster an inclusive and welcoming environment where diverse perspectives are valued.
 
-DATA source code index css js img assets
+**2. Sustainability:**
+   - Commit to sustainable and environmentally responsible farming practices.
+   - Strive to minimize our ecological footprint and actively work towards conservation efforts.
 
-## Test: unit32
+**3. Integrity and Ethics:**
+   - Act with honesty, integrity, and transparency in all business and farming practices.
+   - Adhere to the highest ethical standards and comply with all applicable laws and regulations.
 
-1.) Demostration unit32 project
-2.) Rebuild Refactor version control
-3.) Adjustments conditional tests
-4.) test configuration build
+**4. Collaboration and Cooperation:**
+   - Collaborate with fellow farmers, partners, and stakeholders to achieve shared goals.
+   - Share knowledge, resources, and expertise to support the success of our cooperative.
 
-## networker
-1.) This networker is remote only.
+**5. Safety and Well-being:**
+   - Prioritize the safety and well-being of all individuals involved in our farming operations.
+   - Implement safety measures and guidelines to protect our community.
 
-## service.handler
-The service handler is used for handeling all service querys.
+**6. Innovation and Excellence:**
+   - Strive for continuous improvement in farming techniques and technology.
+   - Encourage innovation and excellence in all aspects of our work.
 
-Food: Micros Green carots pat
+**7. Community Engagement:**
+   - Engage with the local community and contribute positively to its development.
+   - Participate in community outreach and support initiatives.
 
-A.) grow using hydroponics. 
+**8. Compliance and Accountability:**
+   - Comply with all internal policies and procedures.
+   - Hold ourselves accountable for our actions and decisions.
+
+**9. Conflict Resolution:**
+   - Address conflicts and disagreements through open and constructive communication.
+   - Seek solutions that are fair and respectful of all parties involved.
+
+**10. Personal Responsibility:**
+    - Take personal responsibility for upholding the values and principles of Mars Preserve L3C.
+    - Report any violations of this code of conduct to the appropriate authority.
+
+**11. Continuous Learning:**
+    - Promote a culture of continuous learning and professional development.
+    - Stay informed about the latest advancements in sustainable farming and technology.
+
+**12. Privacy and Confidentiality:**
+    - Respect the privacy and confidentiality of sensitive information and data.
+    - Safeguard proprietary and confidential information.
+
+By adhering to this code of conduct, we contribute to the success and positive impact of Mars Preserve L3C. Violations of this code may result in appropriate disciplinary actions. Together, we can build a sustainable and collaborative future.
+
+---
