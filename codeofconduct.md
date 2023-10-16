@@ -1,55 +1,55 @@
 
 ---
 
-**Mars Preserve L3C Code of Conduct**
-
+## Mars Preserve L3C Code of Conduct
 At Mars Preserve L3C, we are dedicated to fostering a culture of respect, collaboration, and sustainability. Our code of conduct outlines the principles and behaviors we expect from all members, including employees, farmers, partners, and stakeholders.
 
-**1. Respect for All:**
+## Respect for All
    - Treat all individuals with dignity and respect, regardless of their background, beliefs, or role within the organization.
    - Foster an inclusive and welcoming environment where diverse perspectives are valued.
 
-**2. Sustainability:**
+## Sustainability
    - Commit to sustainable and environmentally responsible farming practices.
    - Strive to minimize our ecological footprint and actively work towards conservation efforts.
 
-**3. Integrity and Ethics:**
+## Integrity and Ethics
    - Act with honesty, integrity, and transparency in all business and farming practices.
    - Adhere to the highest ethical standards and comply with all applicable laws and regulations.
 
-**4. Collaboration and Cooperation:**
+## Collaboration and Cooperation
    - Collaborate with fellow farmers, partners, and stakeholders to achieve shared goals.
    - Share knowledge, resources, and expertise to support the success of our cooperative.
 
-**5. Safety and Well-being:**
+## Safety and Well-being
    - Prioritize the safety and well-being of all individuals involved in our farming operations.
    - Implement safety measures and guidelines to protect our community.
 
-**6. Innovation and Excellence:**
+## Innovation and Excellence
    - Strive for continuous improvement in farming techniques and technology.
    - Encourage innovation and excellence in all aspects of our work.
 
-**7. Community Engagement:**
+## Community Engagement
    - Engage with the local community and contribute positively to its development.
    - Participate in community outreach and support initiatives.
 
-**8. Compliance and Accountability:**
+## Compliance and Accountability
    - Comply with all internal policies and procedures.
    - Hold ourselves accountable for our actions and decisions.
 
-**9. Conflict Resolution:**
+## Conflict Resolution
    - Address conflicts and disagreements through open and constructive communication.
    - Seek solutions that are fair and respectful of all parties involved.
 
-**10. Personal Responsibility:**
+## Personal Responsibility
     - Take personal responsibility for upholding the values and principles of Mars Preserve L3C.
     - Report any violations of this code of conduct to the appropriate authority.
 
-**11. Continuous Learning:**
+## Continuous Learning
     - Promote a culture of continuous learning and professional development.
     - Stay informed about the latest advancements in sustainable farming and technology.
 
-**12. Privacy and Confidentiality:**
+## Privacy and Confidentiality
+    
     - Respect the privacy and confidentiality of sensitive information and data.
     - Safeguard proprietary and confidential information.
 
