@@ -67,3 +67,5 @@ Mars Preserve Terms and Conditions
 12. Compliance with Martian Law
     a. Martian Legal Requirements
       - All visitors are required to comply with Martian laws and regulations.
+
+We declare freedom.
